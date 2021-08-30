@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<application xmlns="http://ns.adobe.com/air/application/23.0">
+<application xmlns="http://ns.adobe.com/air/application/33.1">
     <id>fr.canope.hds.infosCentre</id>
     <versionNumber>1.0</versionNumber>
     <filename>infosAtelier92</filename>
@@ -42,5 +42,5 @@
         <image16x16>icones_infosAtelier_16-04.png</image16x16>
     </icon>
     <supportedProfiles>desktop extendedDesktop</supportedProfiles>
-    
-<version>1.5</version></application>
+    <version>1.5</version>
+</application>
