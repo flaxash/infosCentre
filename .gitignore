@@ -1,2 +1,1453 @@
 
 bin-debug/
+AIRSDK_MacOS/lib/aot/stub-tvos/ModelIO.framework/ModelIO
+AIRSDK_MacOS/lib/aot/stub-tvos/MobileCoreServices.framework/MobileCoreServices
+AIRSDK_MacOS/lib/aot/stub-tvos/MultipeerConnectivity.framework/MultipeerConnectivity
+AIRSDK_MacOS/templates/swfobject/swfobject.js
+.DS_Store
+AIRSDK_MacOS/AIR SDK license.pdf
+AIRSDK_MacOS/AIR SDK Readme.txt
+AIRSDK_MacOS/air-sdk-description.xml
+AIRSDK_MacOS/airsdk.xml
+AIRSDK_MacOS/ant/lib/flexTasks.jar
+AIRSDK_MacOS/asdoc/build.xml
+AIRSDK_MacOS/asdoc/templates/AC_OETags.js
+AIRSDK_MacOS/asdoc/templates/all-classes.xslt
+AIRSDK_MacOS/asdoc/templates/all-index.xslt
+AIRSDK_MacOS/asdoc/templates/asdoc-util.xslt
+AIRSDK_MacOS/asdoc/templates/asdoc.js
+AIRSDK_MacOS/asdoc/templates/ASDoc_Config_Base.xml
+AIRSDK_MacOS/asdoc/templates/ASDoc_terms.xml
+AIRSDK_MacOS/asdoc/templates/class-files.xslt
+AIRSDK_MacOS/asdoc/templates/class-list.xslt
+AIRSDK_MacOS/asdoc/templates/class-parts.xslt
+AIRSDK_MacOS/asdoc/templates/class-summary.xslt
+AIRSDK_MacOS/asdoc/templates/Classes.xslt
+AIRSDK_MacOS/asdoc/templates/ClassHeader.xslt
+AIRSDK_MacOS/asdoc/templates/cookies.js
+AIRSDK_MacOS/asdoc/templates/effectsSummary.xslt
+AIRSDK_MacOS/asdoc/templates/eventsGeneratedSummary.xslt
+AIRSDK_MacOS/asdoc/templates/fieldSummary.xslt
+AIRSDK_MacOS/asdoc/templates/help.js
+AIRSDK_MacOS/asdoc/templates/images/AirIcon12x12.gif
+AIRSDK_MacOS/asdoc/templates/images/collapsed.gif
+AIRSDK_MacOS/asdoc/templates/images/detailHeaderRule.jpg
+AIRSDK_MacOS/asdoc/templates/images/detailSectionHeader.jpg
+AIRSDK_MacOS/asdoc/templates/images/expanded.gif
+AIRSDK_MacOS/asdoc/templates/images/inherit-arrow.gif
+AIRSDK_MacOS/asdoc/templates/images/inheritedSummary.gif
+AIRSDK_MacOS/asdoc/templates/images/logo.jpg
+AIRSDK_MacOS/asdoc/templates/images/P_AlternativeMetadataIndicator_30x28_N.png
+AIRSDK_MacOS/asdoc/templates/images/titleTableBottom.jpg
+AIRSDK_MacOS/asdoc/templates/images/titleTableMiddle.jpg
+AIRSDK_MacOS/asdoc/templates/images/titleTableTop.jpg
+AIRSDK_MacOS/asdoc/templates/index-list.html
+AIRSDK_MacOS/asdoc/templates/index.html
+AIRSDK_MacOS/asdoc/templates/merge_dita_xml.xslt
+AIRSDK_MacOS/asdoc/templates/methodSummary.xslt
+AIRSDK_MacOS/asdoc/templates/mxml-tags.html
+AIRSDK_MacOS/asdoc/templates/override.css
+AIRSDK_MacOS/asdoc/templates/Overviews_Base.xml
+AIRSDK_MacOS/asdoc/templates/package-detail.xslt
+AIRSDK_MacOS/asdoc/templates/package-frame.html
+AIRSDK_MacOS/asdoc/templates/package-list.xslt
+AIRSDK_MacOS/asdoc/templates/package-summary.xslt
+AIRSDK_MacOS/asdoc/templates/package.xslt
+AIRSDK_MacOS/asdoc/templates/PostProcessing.xslt
+AIRSDK_MacOS/asdoc/templates/print.css
+AIRSDK_MacOS/asdoc/templates/processHTML.xslt
+AIRSDK_MacOS/asdoc/templates/style.css
+AIRSDK_MacOS/asdoc/templates/stylesSummary.xslt
+AIRSDK_MacOS/asdoc/templates/title-bar.html
+AIRSDK_MacOS/atftools/atfinfo
+AIRSDK_MacOS/atftools/ATFViewer.app/Contents/Info.plist
+AIRSDK_MacOS/atftools/ATFViewer.app/Contents/MacOS/ATFViewer
+AIRSDK_MacOS/atftools/ATFViewer.app/Contents/PkgInfo
+AIRSDK_MacOS/atftools/ATFViewer.app/Contents/Resources/empty.lproj
+AIRSDK_MacOS/atftools/dds2atf
+AIRSDK_MacOS/atftools/docs/Readme.txt
+AIRSDK_MacOS/atftools/libPVRTexLib.dylib
+AIRSDK_MacOS/atftools/png2atf
+AIRSDK_MacOS/atftools/pvr2atf
+AIRSDK_MacOS/bin/aasdoc
+AIRSDK_MacOS/bin/aasdoc.bat
+AIRSDK_MacOS/bin/acompc
+AIRSDK_MacOS/bin/acompc.bat
+AIRSDK_MacOS/bin/adl
+AIRSDK_MacOS/bin/adt
+AIRSDK_MacOS/bin/amxmlc
+AIRSDK_MacOS/bin/amxmlc.bat
+AIRSDK_MacOS/bin/asdoc
+AIRSDK_MacOS/bin/asdoc.bat
+AIRSDK_MacOS/bin/compc
+AIRSDK_MacOS/bin/compc.bat
+AIRSDK_MacOS/bin/fdb
+AIRSDK_MacOS/bin/fdb.bat
+AIRSDK_MacOS/bin/fontswf
+AIRSDK_MacOS/bin/fontswf.bat
+AIRSDK_MacOS/bin/mxmlc
+AIRSDK_MacOS/bin/mxmlc.bat
+AIRSDK_MacOS/bin/optimizer
+AIRSDK_MacOS/bin/optimizer.bat
+AIRSDK_MacOS/bin/swcdepends
+AIRSDK_MacOS/bin/swcdepends.bat
+AIRSDK_MacOS/bin/swfdump
+AIRSDK_MacOS/bin/swfdump.bat
+AIRSDK_MacOS/frameworks/air-config.xml
+AIRSDK_MacOS/frameworks/airmobile-config.xml
+AIRSDK_MacOS/frameworks/flex-config.xml
+AIRSDK_MacOS/frameworks/libs/air/AIRAliases.js
+AIRSDK_MacOS/frameworks/libs/air/aircore.swc
+AIRSDK_MacOS/frameworks/libs/air/aircore.swf
+AIRSDK_MacOS/frameworks/libs/air/airglobal.abc
+AIRSDK_MacOS/frameworks/libs/air/airglobal.swc
+AIRSDK_MacOS/frameworks/libs/air/AIRIntrospector.js
+AIRSDK_MacOS/frameworks/libs/air/AIRLocalizer.js
+AIRSDK_MacOS/frameworks/libs/air/AIRMenuBuilder.js
+AIRSDK_MacOS/frameworks/libs/air/AIRSourceViewer.js
+AIRSDK_MacOS/frameworks/libs/air/applicationupdater.swc
+AIRSDK_MacOS/frameworks/libs/air/applicationupdater.swf
+AIRSDK_MacOS/frameworks/libs/air/applicationupdater_ui.swc
+AIRSDK_MacOS/frameworks/libs/air/applicationupdater_ui.swf
+AIRSDK_MacOS/frameworks/libs/air/gamepad.swc
+AIRSDK_MacOS/frameworks/libs/air/servicemonitor.swc
+AIRSDK_MacOS/frameworks/libs/air/servicemonitor.swf
+AIRSDK_MacOS/frameworks/libs/asc-support.swc
+AIRSDK_MacOS/frameworks/libs/core.swc
+AIRSDK_MacOS/frameworks/libs/player/14.0/playerglobal.swc
+AIRSDK_MacOS/frameworks/libs/player/32.0/playerglobal.swc
+AIRSDK_MacOS/frameworks/locale/en_US/playerglobal_rb.swc
+AIRSDK_MacOS/frameworks/locale/fr_FR/playerglobal_rb.swc
+AIRSDK_MacOS/frameworks/locale/ja_JP/playerglobal_rb.swc
+AIRSDK_MacOS/frameworks/locale/zh_CN/playerglobal_rb.swc
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/manifest.xml
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/ApplicationUpdater.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/ApplicationUpdaterUI.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/core/AIRUnpackager.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/core/UCFUnpackager.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/core/UpdaterConfiguration.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/core/UpdaterHSM.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/core/UpdaterState.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/descriptors/ApplicationDescriptor.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/descriptors/ConfigurationDescriptor.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/descriptors/StateDescriptor.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/descriptors/UpdateDescriptor.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/events/DownloadErrorEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/events/StatusFileUpdateErrorEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/events/StatusFileUpdateEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/events/StatusUpdateErrorEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/events/StatusUpdateEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/events/UpdateEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/logging/Level.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/logging/Logger.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/net/FileDownloader.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/states/HSM.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/states/HSMEvent.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/states/UpdateState.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/ui/EmbeddedUILoader.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/ui/ResourceManagerReflection.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/ui/UpdaterUI.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/utils/Constants.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/utils/FileUtils.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/utils/NetUtils.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/utils/StringUtils.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdater/air/update/utils/VersionUtils.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/air/update/locale/UpdaterResourceManager.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/ApplicationUpdaterDialogs.mxml
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/button.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_Default_DisabledSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_Default_downSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_Default_overSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_Default_upSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_disabledSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_downSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_overSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/Button_upSkin.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/down_arrow.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/right_arrow.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/scroll_thumb.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/styles.css
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/styles4.css
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/assets/UpdateIcon.png
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/com/adobe/utils/LocaleId.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/com/adobe/utils/LocaleParserState.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/com/adobe/utils/LocaleRegistry.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/com/adobe/utils/LocaleUtil.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterApplication.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterButton.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterCanvas.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterForm.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterFormItem.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterHBox.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterHRule.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterImage.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterLabel.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterLinkButton.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterProgressBar.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterSpacer.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterText.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterTextArea.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/ApplicationUpdaterVBox.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/OSButtonBarHBox.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/components/TruncatedLabel.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/cs/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/de/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/en_US/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/es/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/fr/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/it/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/ja/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/ko/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/nl/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/pl/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/pt/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/ru/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/sv/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/tr/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/zh_Hans/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/locale/zh_Hant/ApplicationUpdaterDialogs.properties
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/skins/SimpleProgressTrackSkin.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/skins/SimpleScrollArrowSkin.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/skins/SimpleScrollThumbSkin.as
+AIRSDK_MacOS/frameworks/projects/air/ApplicationUpdater/src/ApplicationUpdaterDialogs/skins/SimpleScrollTrackSkin.as
+AIRSDK_MacOS/frameworks/projects/air/Core/manifest-servicemonitor.xml
+AIRSDK_MacOS/frameworks/projects/air/Core/manifest.xml
+AIRSDK_MacOS/frameworks/projects/air/Core/src/air/desktop/URLFilePromise.as
+AIRSDK_MacOS/frameworks/projects/air/Core/src/air/net/SecureSocketMonitor.as
+AIRSDK_MacOS/frameworks/projects/air/Core/src/air/net/ServiceMonitor.as
+AIRSDK_MacOS/frameworks/projects/air/Core/src/air/net/SocketMonitor.as
+AIRSDK_MacOS/frameworks/projects/air/Core/src/air/net/URLMonitor.as
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Java/src/com/adobe/air/sampleextensions/android/licensing/AndroidLicenseCheckerCallback.java
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Java/src/com/adobe/air/sampleextensions/android/licensing/AndroidLicensing.java
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Java/src/com/adobe/air/sampleextensions/android/licensing/AndroidLicensingExtension.java
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Java/src/com/adobe/air/sampleextensions/android/licensing/AndroidLicensingExtensionContext.java
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Lib/src/com/adobe/air/sampleextensions/android/licensing/LicenseChecker.as
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Lib/src/com/adobe/air/sampleextensions/android/licensing/LicenseStatus.as
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Lib/src/com/adobe/air/sampleextensions/android/licensing/LicenseStatusEvent.as
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Lib/src/com/adobe/air/sampleextensions/android/licensing/LicenseStatusReason.as
+AIRSDK_MacOS/frameworks/projects/air/Licensing/Android/Lib/src/extension.xml
+AIRSDK_MacOS/frameworks/projects/air/sample-frameworks-build.xml
+AIRSDK_MacOS/include/FlashRuntimeExtensions.h
+AIRSDK_MacOS/lib/adt.cfg
+AIRSDK_MacOS/lib/adt.jar
+AIRSDK_MacOS/lib/afe.jar
+AIRSDK_MacOS/lib/aglj40.jar
+AIRSDK_MacOS/lib/android/arm8/FlashRuntimeExtensions.so
+AIRSDK_MacOS/lib/android/bin/aapt
+AIRSDK_MacOS/lib/android/bin/aapt2
+AIRSDK_MacOS/lib/android/bin/adb
+AIRSDK_MacOS/lib/android/bin/d8.jar
+AIRSDK_MacOS/lib/android/bin/dx.jar
+AIRSDK_MacOS/lib/android/FlashRuntimeExtensions.jar
+AIRSDK_MacOS/lib/android/FlashRuntimeExtensions.so
+AIRSDK_MacOS/lib/android/lib/baksmali-2.1.3.jar
+AIRSDK_MacOS/lib/android/lib/baksmali.jar
+AIRSDK_MacOS/lib/android/lib/bundletool.jar
+AIRSDK_MacOS/lib/android/lib/commons-cli.jar
+AIRSDK_MacOS/lib/android/lib/commons-io.jar
+AIRSDK_MacOS/lib/android/lib/dexlib2.jar
+AIRSDK_MacOS/lib/android/lib/guava.jar
+AIRSDK_MacOS/lib/android/lib/multidex-1.0.2/addToPrimaryDex.keep
+AIRSDK_MacOS/lib/android/lib/multidex-1.0.2/classes.jar
+AIRSDK_MacOS/lib/android/lib/resources/android-res.jar
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable-nodpi/splash_landscape.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable-nodpi/splash_portrait.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable-xhdpi/ouya_icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable/banner.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable/ic_adobe_logo.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable/ic_adobe_tm_logo.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable/ic_harman_logo.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/drawable/mp_warning_32x32_n.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout-land/splash_screen_layout.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout/expandable_chooser_row.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout/expandable_multiple_chooser_row.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout/main.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout/multiple_file_selection_panel.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout/splash_screen_layout.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/layout/ssl_certificate_warning.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/mipmap-hdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/mipmap-ldpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/mipmap-mdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/mipmap-xhdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/mipmap-xxhdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/mipmap-xxxhdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/raw/debugger.info
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/raw/debuginfo
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/raw/rgba8888
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-cs/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-da/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-de/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-el/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-es/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-fi/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-fr/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-in/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-it/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-iw/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-ja/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-ko/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-ms/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-nb/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-nl/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-pl/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-pt/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-ru/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-sv/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-th/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-tr/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-vi/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-zh-rCN/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values-zh-rTW/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/values/styles.xml
+AIRSDK_MacOS/lib/android/lib/resources/app_entry/res/xml/provider_paths.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/drawable-hdpi/home.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/drawable-xhdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/drawable-xxxhdpi/icon.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/drawable/air_72px_mobile_eula.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/drawable/mp_warning_32x32_n.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/layout/activity_static_page.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/raw/adobelogo.gif
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/raw/icon.jpg
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/raw/mms_cfg.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/raw/ss_cfg.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/raw/ss_sgn.png
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/raw/startga.html
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-cs/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-da/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-de/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-el/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-es/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-fi/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-fr/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-in/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-it/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-iw/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-ja/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-ko/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-ms/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-nb/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-nl/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-pl/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-pt/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-ru/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-sv/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-th/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-tr/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-vi/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-zh-rCN/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values-zh-rTW/strings.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values/colors.xml
+AIRSDK_MacOS/lib/android/lib/resources/captive_runtime/res/values/strings.xml
+AIRSDK_MacOS/lib/android/lib/runtimeClasses.jar
+AIRSDK_MacOS/lib/android/lib/smali-2.1.3.jar
+AIRSDK_MacOS/lib/android/lib/smali.jar
+AIRSDK_MacOS/lib/android/lib/util.jar
+AIRSDK_MacOS/lib/android/lib/zip4j.jar
+AIRSDK_MacOS/lib/android/licenses/aapt-NOTICE
+AIRSDK_MacOS/lib/android/licenses/aapt2-NOTICE
+AIRSDK_MacOS/lib/android/licenses/adb-NOTICE
+AIRSDK_MacOS/lib/android/licenses/android-sdk-extras-NOTICE
+AIRSDK_MacOS/lib/android/licenses/apache-2.0-NOTICE
+AIRSDK_MacOS/lib/android/licenses/bundletool-NOTICE
+AIRSDK_MacOS/lib/android/licenses/d8-NOTICE
+AIRSDK_MacOS/lib/android/licenses/dx-NOTICE
+AIRSDK_MacOS/lib/android/licenses/expat-NOTICE
+AIRSDK_MacOS/lib/android/licenses/extras-NOTICE
+AIRSDK_MacOS/lib/android/licenses/freetype-NOTICE
+AIRSDK_MacOS/lib/android/licenses/libutil-NOTICE
+AIRSDK_MacOS/lib/android/licenses/skia-NOTICE
+AIRSDK_MacOS/lib/android/licenses/smali-NOTICE
+AIRSDK_MacOS/lib/android/x86/FlashRuntimeExtensions.so
+AIRSDK_MacOS/lib/android/x86_64/FlashRuntimeExtensions.so
+AIRSDK_MacOS/lib/antlr-LICENSE.txt
+AIRSDK_MacOS/lib/antlr.jar
+AIRSDK_MacOS/lib/aot/bin/as/APPLE_LICENSE
+AIRSDK_MacOS/lib/aot/bin/as/arm-apple-darwin9-as
+AIRSDK_MacOS/lib/aot/bin/as/as-386
+AIRSDK_MacOS/lib/aot/bin/as/as-arm
+AIRSDK_MacOS/lib/aot/bin/as/COPYING
+AIRSDK_MacOS/lib/aot/bin/as/i686-apple-darwin9-as
+AIRSDK_MacOS/lib/aot/bin/as/Readme.txt
+AIRSDK_MacOS/lib/aot/bin/compile-abc/compile-abc
+AIRSDK_MacOS/lib/aot/bin/compile-abc/compile-abc-64
+AIRSDK_MacOS/lib/aot/bin/iOSBin/COPYING.LESSER
+AIRSDK_MacOS/lib/aot/bin/iOSBin/COPYING.LGPLv2.1
+AIRSDK_MacOS/lib/aot/bin/iOSBin/COPYING.ssleay
+AIRSDK_MacOS/lib/aot/bin/iOSBin/idb
+AIRSDK_MacOS/lib/aot/bin/iOSBin/ideviceinfo
+AIRSDK_MacOS/lib/aot/bin/iOSBin/ideviceinstaller
+AIRSDK_MacOS/lib/aot/bin/iOSBin/iIPA
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libcrypto.1.1.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libglib-2.0.0.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libiconv.2.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libimobiledevice.6.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libintl.8.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libplist.1.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libplist.3.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libssl.1.1.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libusbmuxd.6.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libxml2.2.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libz.1.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/libzip.5.dylib
+AIRSDK_MacOS/lib/aot/bin/iOSBin/NOTICE.TXT
+AIRSDK_MacOS/lib/aot/bin/isb/isb
+AIRSDK_MacOS/lib/aot/bin/ld64/APPLE_LICENSE
+AIRSDK_MacOS/lib/aot/bin/ld64/ld64
+AIRSDK_MacOS/lib/aot/bin/ld64/Readme.txt
+AIRSDK_MacOS/lib/aot/bin/lipo/lipo
+AIRSDK_MacOS/lib/aot/bin/strip/Readme.txt
+AIRSDK_MacOS/lib/aot/lib-tvos/air-fields.arm64-air.txt
+AIRSDK_MacOS/lib/aot/lib-tvos/avmglue.abc
+AIRSDK_MacOS/lib/aot/lib-tvos/builtin.abc
+AIRSDK_MacOS/lib/aot/lib-tvos/builtin_abc.arm64-air.o
+AIRSDK_MacOS/lib/aot/lib-tvos/crt1.o
+AIRSDK_MacOS/lib/aot/lib-tvos/gcc/COPYING
+AIRSDK_MacOS/lib/aot/lib-tvos/gcc/libgcc.a
+AIRSDK_MacOS/lib/aot/lib-tvos/gcc/Readme.txt
+AIRSDK_MacOS/lib/aot/lib-tvos/libNotification.arm-air.a
+AIRSDK_MacOS/lib/aot/lib-tvos/libNotification.x86-simulator-air.a
+AIRSDK_MacOS/lib/aot/lib-tvos/libRuntimeHMAOT.arm-air.a
+AIRSDK_MacOS/lib/aot/lib-tvos/libRuntimeInterpreter.arm-air.a
+AIRSDK_MacOS/lib/aot/lib-tvos/libRuntimeInterpreter.x86-simulator-air.a
+AIRSDK_MacOS/lib/aot/lib-tvos/local_nostrip.arm-air.txt
+AIRSDK_MacOS/lib/aot/lib-tvos/local_nostrip.x86-simulator-air.txt
+AIRSDK_MacOS/lib/aot/lib-tvos/MainWindow.nib/MainWindow.nib
+AIRSDK_MacOS/lib/aot/lib-tvos/MainWindow.nib/objects-13.0+.nib
+AIRSDK_MacOS/lib/aot/lib/air-fields.arm-air.txt
+AIRSDK_MacOS/lib/aot/lib/air-fields.arm64-air.txt
+AIRSDK_MacOS/lib/aot/lib/Assets.car
+AIRSDK_MacOS/lib/aot/lib/avmglue.abc
+AIRSDK_MacOS/lib/aot/lib/builtin.abc
+AIRSDK_MacOS/lib/aot/lib/builtin_abc.arm-air.o
+AIRSDK_MacOS/lib/aot/lib/builtin_abc.arm64-air.o
+AIRSDK_MacOS/lib/aot/lib/crt1.o
+AIRSDK_MacOS/lib/aot/lib/gcc/COPYING
+AIRSDK_MacOS/lib/aot/lib/gcc/libgcc.a
+AIRSDK_MacOS/lib/aot/lib/gcc/Readme.txt
+AIRSDK_MacOS/lib/aot/lib/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+AIRSDK_MacOS/lib/aot/lib/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+AIRSDK_MacOS/lib/aot/lib/LaunchScreen.storyboardc/Info.plist
+AIRSDK_MacOS/lib/aot/lib/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+AIRSDK_MacOS/lib/aot/lib/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+AIRSDK_MacOS/lib/aot/lib/libclang_rt.ios.a
+AIRSDK_MacOS/lib/aot/lib/libclang_rt.license
+AIRSDK_MacOS/lib/aot/lib/libgcc.a
+AIRSDK_MacOS/lib/aot/lib/libNotification.arm-air.a
+AIRSDK_MacOS/lib/aot/lib/libNotification.x86-simulator-air.a
+AIRSDK_MacOS/lib/aot/lib/libRuntimeHMAOT.arm-air.a
+AIRSDK_MacOS/lib/aot/lib/libRuntimeInterpreter.arm-air.a
+AIRSDK_MacOS/lib/aot/lib/libRuntimeInterpreter.x86-simulator-air.a
+AIRSDK_MacOS/lib/aot/lib/local_nostrip.arm-air.txt
+AIRSDK_MacOS/lib/aot/lib/local_nostrip.x86-simulator-air.txt
+AIRSDK_MacOS/lib/aot/lib/lzma.jar
+AIRSDK_MacOS/lib/aot/lib/MainWindow-iPad.nib/MainWindow-iPad.nib
+AIRSDK_MacOS/lib/aot/lib/MainWindow-iPad.nib/objects-13.0+-iPad.nib
+AIRSDK_MacOS/lib/aot/lib/MainWindow.nib/MainWindow.nib
+AIRSDK_MacOS/lib/aot/lib/MainWindow.nib/objects-13.0+.nib
+AIRSDK_MacOS/lib/aot/res/splash_landscape.imageset/Contents.json
+AIRSDK_MacOS/lib/aot/res/splash_landscape.imageset/splash_landscape.png
+AIRSDK_MacOS/lib/aot/res/splash_landscape.imageset/splash_landscape@2x.png
+AIRSDK_MacOS/lib/aot/res/splash_landscape.imageset/splash_landscape@3x.png
+AIRSDK_MacOS/lib/aot/res/splash_portrait.imageset/Contents.json
+AIRSDK_MacOS/lib/aot/res/splash_portrait.imageset/splash_portrait.png
+AIRSDK_MacOS/lib/aot/res/splash_portrait.imageset/splash_portrait@2x.png
+AIRSDK_MacOS/lib/aot/res/splash_portrait.imageset/splash_portrait@3x.png
+AIRSDK_MacOS/lib/aot/stub-tvos/Accelerate.framework/Accelerate
+AIRSDK_MacOS/lib/aot/stub-tvos/AdSupport.framework/AdSupport
+AIRSDK_MacOS/lib/aot/stub-tvos/AudioToolbox.framework/AudioToolbox
+AIRSDK_MacOS/lib/aot/stub-tvos/AVFoundation.framework/AVFoundation
+AIRSDK_MacOS/lib/aot/stub-tvos/AVKit.framework/AVKit
+AIRSDK_MacOS/lib/aot/stub-tvos/CFNetwork.framework/CFNetwork
+AIRSDK_MacOS/lib/aot/stub-tvos/CloudKit.framework/CloudKit
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreAudio.framework/CoreAudio
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreBluetooth.framework/CoreBluetooth
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreData.framework/CoreData
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreFoundation.framework/CoreFoundation
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreGraphics.framework/CoreGraphics
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreImage.framework/CoreImage
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreLocation.framework/CoreLocation
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreMedia.framework/CoreMedia
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreML.framework/CoreML
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreServices.framework/CoreServices
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreSpotlight.framework/CoreSpotlight
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreText.framework/CoreText
+AIRSDK_MacOS/lib/aot/stub-tvos/CoreVideo.framework/CoreVideo
+AIRSDK_MacOS/lib/aot/stub-tvos/DeviceCheck.framework/DeviceCheck
+AIRSDK_MacOS/lib/aot/stub-tvos/ExternalAccessory.framework/ExternalAccessory
+AIRSDK_MacOS/lib/aot/stub-tvos/Foundation.framework/Foundation
+AIRSDK_MacOS/lib/aot/stub-tvos/GameController.framework/GameController
+AIRSDK_MacOS/lib/aot/stub-tvos/GameKit.framework/GameKit
+AIRSDK_MacOS/lib/aot/stub-tvos/GameplayKit.framework/GameplayKit
+AIRSDK_MacOS/lib/aot/stub-tvos/GLKit.framework/GLKit
+AIRSDK_MacOS/lib/aot/stub-tvos/HomeKit.framework/HomeKit
+AIRSDK_MacOS/lib/aot/stub-tvos/ImageIO.framework/ImageIO
+AIRSDK_MacOS/lib/aot/stub-tvos/IOSurface.framework/IOSurface
+AIRSDK_MacOS/lib/aot/stub-tvos/JavaScriptCore.framework/JavaScriptCore
+AIRSDK_MacOS/lib/aot/stub-tvos/libAccessibility.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libacmobileshim.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libafc.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libamsupport.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libapple_nghttp2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAppleSWDHIDFlashUpdater.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAppPatch.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libarchive.2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libarchive.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libate.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAudioIssueDetector.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAudioStatistics.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libauthinstall.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDProtobufBluetooth.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDProtobufFacetime.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDProtobufFacetimeiMessage.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDProtobufGCK.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDProtobufLocation.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDSupport.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAWDSupportFramework.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAXSafeCategoryBundle.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libAXSpeechManager.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libboringssl.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libbsm.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libbsm.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libbz2.1.0.5.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libbz2.1.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libbz2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libc++.1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libc++.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libc++abi.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libc.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcharset.1.0.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcharset.1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcharset.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libChineseTokenizer.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcmph.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcompression.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcoretls.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcoretls_cfhelpers.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libCRFSuite.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libCRFSuite0.12.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libCTGreenTeaLogger.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcupolicy.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libcurses.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libdbm.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libDHCPServer.A.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libDHCPServer.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libdl.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libdns_services.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libdscsym.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libeasyperf.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libedit.2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libedit.3.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libedit.3.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libedit.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libenergytrace.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libexslt.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libexslt.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libextension.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libFDR.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libFDRDecode.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libform.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libform.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libgermantok.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libheimdal-asn1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libiconv.2.4.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libiconv.2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libiconv.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libicucore.A.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libicucore.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libInFieldCollection.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libinfo.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libIOAccessoryManager.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libipconfig.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libipsec.A.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libipsec.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libktrace.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/liblangid.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libLeaksAtExit.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libLLVM-C.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libLLVM.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/liblockdown.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/liblzma.5.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/liblzma.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libm.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmarisa.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMatch.1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMatch.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMaxEnt.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmecab.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmecab_em.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmecabra.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMemoryResourceException.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmenu.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmenu.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libmis.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMobileCheckpoint.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMobileGestalt.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libMobileGestaltExtensions.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libncurses.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libncurses.5.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libncurses.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libnetwork.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libnetworkextension.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libobjc-trampolines.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libobjc.A.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libobjc.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libpanel.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libpanel.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libParallelCompression.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libperfcheck.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libpoll.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libPPM.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libprequelite.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libproc.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libprotobuf-lite.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libprotobuf.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libpthread.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libquic.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libreadline.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libresolv.9.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libresolv.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/librpcsvc.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsandbox.1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsandbox.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsp.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libspindump.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsqlite3.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsqlite3.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsysdiagnose.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libSystem.B.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libSystem.B_asan.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libSystem.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libSystem_asan.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libsystemstats.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libtailspin.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libTelephonyUtilDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libtermcap.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libThaiTokenizer.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libtidy.A.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libtidy.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libtzupdate.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libusrtcp.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libutil.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libutil1.0.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libWAPI.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libxml2.2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libxml2.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libxslt.1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libxslt.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libz.1.1.3.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libz.1.2.11.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libz.1.2.5.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libz.1.2.8.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libz.1.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/libz.dylib
+AIRSDK_MacOS/lib/aot/stub-tvos/MapKit.framework/MapKit
+AIRSDK_MacOS/lib/aot/stub-tvos/MediaAccessibility.framework/MediaAccessibility
+AIRSDK_MacOS/lib/aot/stub-tvos/MediaPlayer.framework/MediaPlayer
+AIRSDK_MacOS/lib/aot/stub-tvos/MediaToolbox.framework/MediaToolbox
+AIRSDK_MacOS/lib/aot/stub-tvos/Metal.framework/Metal
+AIRSDK_MacOS/lib/aot/stub-tvos/MetalKit.framework/MetalKit
+AIRSDK_MacOS/lib/aot/stub-tvos/MetalPerformanceShaders.framework/MetalPerformanceShaders
+AIRSDK_MacOS/lib/aot/stub-tvos/NaturalLanguage.framework/NaturalLanguage
+AIRSDK_MacOS/lib/aot/stub-tvos/Network.framework/Network
+AIRSDK_MacOS/lib/aot/stub-tvos/OpenAL.framework/OpenAL
+AIRSDK_MacOS/lib/aot/stub-tvos/OpenGLES.framework/OpenGLES
+AIRSDK_MacOS/lib/aot/stub-tvos/Photos.framework/Photos
+AIRSDK_MacOS/lib/aot/stub-tvos/PhotosUI.framework/PhotosUI
+AIRSDK_MacOS/lib/aot/stub-tvos/QuartzCore.framework/QuartzCore
+AIRSDK_MacOS/lib/aot/stub-tvos/ReplayKit.framework/ReplayKit
+AIRSDK_MacOS/lib/aot/stub-tvos/SceneKit.framework/SceneKit
+AIRSDK_MacOS/lib/aot/stub-tvos/Security.framework/Security
+AIRSDK_MacOS/lib/aot/stub-tvos/SpriteKit.framework/SpriteKit
+AIRSDK_MacOS/lib/aot/stub-tvos/StoreKit.framework/StoreKit
+AIRSDK_MacOS/lib/aot/stub-tvos/SystemConfiguration.framework/SystemConfiguration
+AIRSDK_MacOS/lib/aot/stub-tvos/TVMLKit.framework/TVMLKit
+AIRSDK_MacOS/lib/aot/stub-tvos/TVServices.framework/TVServices
+AIRSDK_MacOS/lib/aot/stub-tvos/TVUIKit.framework/TVUIKit
+AIRSDK_MacOS/lib/aot/stub-tvos/UIKit.framework/UIKit
+AIRSDK_MacOS/lib/aot/stub-tvos/UserNotifications.framework/UserNotifications
+AIRSDK_MacOS/lib/aot/stub-tvos/VideoSubscriberAccount.framework/VideoSubscriberAccount
+AIRSDK_MacOS/lib/aot/stub-tvos/VideoToolbox.framework/VideoToolbox
+AIRSDK_MacOS/lib/aot/stub-tvos/Vision.framework/Vision
+AIRSDK_MacOS/lib/aot/stub/_AuthenticationServices_SwiftUI.framework/_AuthenticationServices_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_AVKit_SwiftUI.framework/_AVKit_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_HomeKit_SwiftUI.framework/_HomeKit_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_MapKit_SwiftUI.framework/_MapKit_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_QuickLook_SwiftUI.framework/_QuickLook_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_SceneKit_SwiftUI.framework/_SceneKit_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_SpriteKit_SwiftUI.framework/_SpriteKit_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/_StoreKit_SwiftUI.framework/_StoreKit_SwiftUI
+AIRSDK_MacOS/lib/aot/stub/Accelerate.framework/Accelerate
+AIRSDK_MacOS/lib/aot/stub/Accessibility.framework/Accessibility
+AIRSDK_MacOS/lib/aot/stub/Accounts.framework/Accounts
+AIRSDK_MacOS/lib/aot/stub/ACIPCBTLib.dylib
+AIRSDK_MacOS/lib/aot/stub/AddressBook.framework/AddressBook
+AIRSDK_MacOS/lib/aot/stub/AddressBookUI.framework/AddressBookUI
+AIRSDK_MacOS/lib/aot/stub/AdSupport.framework/AdSupport
+AIRSDK_MacOS/lib/aot/stub/AppClip.framework/AppClip
+AIRSDK_MacOS/lib/aot/stub/AppleConvergedTransport.dylib
+AIRSDK_MacOS/lib/aot/stub/AppTrackingTransparency.framework/AppTrackingTransparency
+AIRSDK_MacOS/lib/aot/stub/ARKit.framework/ARKit
+AIRSDK_MacOS/lib/aot/stub/AssetsLibrary.framework/AssetsLibrary
+AIRSDK_MacOS/lib/aot/stub/AudioToolbox.framework/AudioToolbox
+AIRSDK_MacOS/lib/aot/stub/AuthenticationServices.framework/AuthenticationServices
+AIRSDK_MacOS/lib/aot/stub/AutomaticAssessmentConfiguration.framework/AutomaticAssessmentConfiguration
+AIRSDK_MacOS/lib/aot/stub/AVFoundation.framework/AVFoundation
+AIRSDK_MacOS/lib/aot/stub/AVKit.framework/AVKit
+AIRSDK_MacOS/lib/aot/stub/BackgroundTasks.framework/BackgroundTasks
+AIRSDK_MacOS/lib/aot/stub/BusinessChat.framework/BusinessChat
+AIRSDK_MacOS/lib/aot/stub/CallKit.framework/CallKit
+AIRSDK_MacOS/lib/aot/stub/CarPlay.framework/CarPlay
+AIRSDK_MacOS/lib/aot/stub/CarrierBundleUtilities.dylib
+AIRSDK_MacOS/lib/aot/stub/CFNetwork.framework/CFNetwork
+AIRSDK_MacOS/lib/aot/stub/ClassKit.framework/ClassKit
+AIRSDK_MacOS/lib/aot/stub/ClockKit.framework/ClockKit
+AIRSDK_MacOS/lib/aot/stub/CloudKit.framework/CloudKit
+AIRSDK_MacOS/lib/aot/stub/Combine.framework/Combine
+AIRSDK_MacOS/lib/aot/stub/Contacts.framework/Contacts
+AIRSDK_MacOS/lib/aot/stub/ContactsUI.framework/ContactsUI
+AIRSDK_MacOS/lib/aot/stub/CoreAudio.framework/CoreAudio
+AIRSDK_MacOS/lib/aot/stub/CoreAudioKit.framework/CoreAudioKit
+AIRSDK_MacOS/lib/aot/stub/CoreBluetooth.framework/CoreBluetooth
+AIRSDK_MacOS/lib/aot/stub/CoreData.framework/CoreData
+AIRSDK_MacOS/lib/aot/stub/CoreFoundation.framework/CoreFoundation
+AIRSDK_MacOS/lib/aot/stub/CoreGraphics.framework/CoreGraphics
+AIRSDK_MacOS/lib/aot/stub/CoreHaptics.framework/CoreHaptics
+AIRSDK_MacOS/lib/aot/stub/CoreImage.framework/CoreImage
+AIRSDK_MacOS/lib/aot/stub/CoreLocation.framework/CoreLocation
+AIRSDK_MacOS/lib/aot/stub/CoreMedia.framework/CoreMedia
+AIRSDK_MacOS/lib/aot/stub/CoreMIDI.framework/CoreMIDI
+AIRSDK_MacOS/lib/aot/stub/CoreML.framework/CoreML
+AIRSDK_MacOS/lib/aot/stub/CoreMotion.framework/CoreMotion
+AIRSDK_MacOS/lib/aot/stub/CoreNFC.framework/CoreNFC
+AIRSDK_MacOS/lib/aot/stub/CoreServices.framework/CoreServices
+AIRSDK_MacOS/lib/aot/stub/CoreSpotlight.framework/CoreSpotlight
+AIRSDK_MacOS/lib/aot/stub/CoreTelephony.framework/CoreTelephony
+AIRSDK_MacOS/lib/aot/stub/CoreText.framework/CoreText
+AIRSDK_MacOS/lib/aot/stub/CoreVideo.framework/CoreVideo
+AIRSDK_MacOS/lib/aot/stub/CryptoKit.framework/CryptoKit
+AIRSDK_MacOS/lib/aot/stub/CryptoTokenKit.framework/CryptoTokenKit
+AIRSDK_MacOS/lib/aot/stub/DeveloperToolsSupport.framework/DeveloperToolsSupport
+AIRSDK_MacOS/lib/aot/stub/DeviceCheck.framework/DeviceCheck
+AIRSDK_MacOS/lib/aot/stub/EventKit.framework/EventKit
+AIRSDK_MacOS/lib/aot/stub/EventKitUI.framework/EventKitUI
+AIRSDK_MacOS/lib/aot/stub/ExposureNotification.framework/ExposureNotification
+AIRSDK_MacOS/lib/aot/stub/ExternalAccessory.framework/ExternalAccessory
+AIRSDK_MacOS/lib/aot/stub/FileProvider.framework/FileProvider
+AIRSDK_MacOS/lib/aot/stub/FileProviderUI.framework/FileProviderUI
+AIRSDK_MacOS/lib/aot/stub/Foundation.framework/Foundation
+AIRSDK_MacOS/lib/aot/stub/GameController.framework/GameController
+AIRSDK_MacOS/lib/aot/stub/GameKit.framework/GameKit
+AIRSDK_MacOS/lib/aot/stub/GameplayKit.framework/GameplayKit
+AIRSDK_MacOS/lib/aot/stub/GLKit.framework/GLKit
+AIRSDK_MacOS/lib/aot/stub/GSS.framework/GSS
+AIRSDK_MacOS/lib/aot/stub/HealthKit.framework/HealthKit
+AIRSDK_MacOS/lib/aot/stub/HealthKitUI.framework/HealthKitUI
+AIRSDK_MacOS/lib/aot/stub/HomeKit.framework/HomeKit
+AIRSDK_MacOS/lib/aot/stub/iAd.framework/iAd
+AIRSDK_MacOS/lib/aot/stub/IdentityLookup.framework/IdentityLookup
+AIRSDK_MacOS/lib/aot/stub/IdentityLookupUI.framework/IdentityLookupUI
+AIRSDK_MacOS/lib/aot/stub/ImageCaptureCore.framework/ImageCaptureCore
+AIRSDK_MacOS/lib/aot/stub/ImageIO.framework/ImageIO
+AIRSDK_MacOS/lib/aot/stub/Intents.framework/Intents
+AIRSDK_MacOS/lib/aot/stub/IntentsUI.framework/IntentsUI
+AIRSDK_MacOS/lib/aot/stub/IOKit.framework/IOKit
+AIRSDK_MacOS/lib/aot/stub/IOSurface.framework/IOSurface
+AIRSDK_MacOS/lib/aot/stub/JavaScriptCore.framework/JavaScriptCore
+AIRSDK_MacOS/lib/aot/stub/libABMCommandDriversEUR.dylib
+AIRSDK_MacOS/lib/aot/stub/libABMCommandDriversICE.dylib
+AIRSDK_MacOS/lib/aot/stub/libAccessibility.dylib
+AIRSDK_MacOS/lib/aot/stub/libacmobileshim.dylib
+AIRSDK_MacOS/lib/aot/stub/libafc.dylib
+AIRSDK_MacOS/lib/aot/stub/libAHTRestore.dylib
+AIRSDK_MacOS/lib/aot/stub/libamsupport.dylib
+AIRSDK_MacOS/lib/aot/stub/libapp_launch_measurement.dylib
+AIRSDK_MacOS/lib/aot/stub/libapple_nghttp2.dylib
+AIRSDK_MacOS/lib/aot/stub/libAppleArchive.dylib
+AIRSDK_MacOS/lib/aot/stub/libAppleEXR.dylib
+AIRSDK_MacOS/lib/aot/stub/libAppleHIDSWDFlash.dylib
+AIRSDK_MacOS/lib/aot/stub/libAppleSSEExt.dylib
+AIRSDK_MacOS/lib/aot/stub/libAppletTranslationLibrary.dylib
+AIRSDK_MacOS/lib/aot/stub/libAppPatch.dylib
+AIRSDK_MacOS/lib/aot/stub/libarchive.2.dylib
+AIRSDK_MacOS/lib/aot/stub/libarchive.dylib
+AIRSDK_MacOS/lib/aot/stub/libARI.dylib
+AIRSDK_MacOS/lib/aot/stub/libARIServer.dylib
+AIRSDK_MacOS/lib/aot/stub/libATCommandStudioDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libate.dylib
+AIRSDK_MacOS/lib/aot/stub/libAudioIssueDetector.dylib
+AIRSDK_MacOS/lib/aot/stub/libAudioStatistics.dylib
+AIRSDK_MacOS/lib/aot/stub/libAudioToolboxUtility.dylib
+AIRSDK_MacOS/lib/aot/stub/libauthinstall.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDProtobufBluetooth.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDProtobufFacetime.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDProtobufFacetimeiMessage.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDProtobufGCK.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDProtobufLocation.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDSupport.dylib
+AIRSDK_MacOS/lib/aot/stub/libAWDSupportFramework.dylib
+AIRSDK_MacOS/lib/aot/stub/libAXSafeCategoryBundle.dylib
+AIRSDK_MacOS/lib/aot/stub/libAXSpeechManager.dylib
+AIRSDK_MacOS/lib/aot/stub/libBasebandDiagnostic.dylib
+AIRSDK_MacOS/lib/aot/stub/libBasebandManager.dylib
+AIRSDK_MacOS/lib/aot/stub/libBasebandManagerICE.dylib
+AIRSDK_MacOS/lib/aot/stub/libBBUpdaterDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libBBUpdaterDynamic_stubs.dylib
+AIRSDK_MacOS/lib/aot/stub/libBKDM1.dylib
+AIRSDK_MacOS/lib/aot/stub/libBKDM2.dylib
+AIRSDK_MacOS/lib/aot/stub/libboringssl.dylib
+AIRSDK_MacOS/lib/aot/stub/libbsm.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libbsm.dylib
+AIRSDK_MacOS/lib/aot/stub/libbz2.1.0.5.dylib
+AIRSDK_MacOS/lib/aot/stub/libbz2.1.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libbz2.dylib
+AIRSDK_MacOS/lib/aot/stub/libc++.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libc++.dylib
+AIRSDK_MacOS/lib/aot/stub/libc++abi.dylib
+AIRSDK_MacOS/lib/aot/stub/libc.dylib
+AIRSDK_MacOS/lib/aot/stub/libcharset.1.0.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libcharset.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libcharset.dylib
+AIRSDK_MacOS/lib/aot/stub/libChineseTokenizer.dylib
+AIRSDK_MacOS/lib/aot/stub/libcmph.dylib
+AIRSDK_MacOS/lib/aot/stub/libcompression.dylib
+AIRSDK_MacOS/lib/aot/stub/libcoreroutine.dylib
+AIRSDK_MacOS/lib/aot/stub/libcoretls.dylib
+AIRSDK_MacOS/lib/aot/stub/libcoretls_cfhelpers.dylib
+AIRSDK_MacOS/lib/aot/stub/libCRFSuite.dylib
+AIRSDK_MacOS/lib/aot/stub/libCRFSuite0.12.dylib
+AIRSDK_MacOS/lib/aot/stub/libcryptex.dylib
+AIRSDK_MacOS/lib/aot/stub/libcryptex_core.dylib
+AIRSDK_MacOS/lib/aot/stub/libcryptex_interface.dylib
+AIRSDK_MacOS/lib/aot/stub/libCTGreenTeaLogger.dylib
+AIRSDK_MacOS/lib/aot/stub/libcupolicy.dylib
+AIRSDK_MacOS/lib/aot/stub/libcurses.dylib
+AIRSDK_MacOS/lib/aot/stub/libdbm.dylib
+AIRSDK_MacOS/lib/aot/stub/libDHCPServer.A.dylib
+AIRSDK_MacOS/lib/aot/stub/libDHCPServer.dylib
+AIRSDK_MacOS/lib/aot/stub/libdl.dylib
+AIRSDK_MacOS/lib/aot/stub/libdns_services.dylib
+AIRSDK_MacOS/lib/aot/stub/libdpfu.dylib
+AIRSDK_MacOS/lib/aot/stub/libdscsym.dylib
+AIRSDK_MacOS/lib/aot/stub/libeasyperf.dylib
+AIRSDK_MacOS/lib/aot/stub/libedit.2.dylib
+AIRSDK_MacOS/lib/aot/stub/libedit.3.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libedit.3.dylib
+AIRSDK_MacOS/lib/aot/stub/libedit.dylib
+AIRSDK_MacOS/lib/aot/stub/libenergytrace.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLDIAGLoggingDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLDLFDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLDLOADCoreDumpDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLDLOADDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLDMCDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLEFSDumpDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libETLSAHDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libexpat.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libexpat.dylib
+AIRSDK_MacOS/lib/aot/stub/libexslt.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libexslt.dylib
+AIRSDK_MacOS/lib/aot/stub/libextension.dylib
+AIRSDK_MacOS/lib/aot/stub/libFaultOrdering.dylib
+AIRSDK_MacOS/lib/aot/stub/libFDR.dylib
+AIRSDK_MacOS/lib/aot/stub/libFDRDecode.dylib
+AIRSDK_MacOS/lib/aot/stub/libfire2.dylib
+AIRSDK_MacOS/lib/aot/stub/libfire3.dylib
+AIRSDK_MacOS/lib/aot/stub/libform.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub/libform.dylib
+AIRSDK_MacOS/lib/aot/stub/libFosl_dynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libFusionComponentCheck.dylib
+AIRSDK_MacOS/lib/aot/stub/libgermantok.dylib
+AIRSDK_MacOS/lib/aot/stub/libgmalloc.dylib
+AIRSDK_MacOS/lib/aot/stub/libH5Dynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libHDLCDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libheimdal-asn1.dylib
+AIRSDK_MacOS/lib/aot/stub/libICEClient.dylib
+AIRSDK_MacOS/lib/aot/stub/libiconv.2.4.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libiconv.2.dylib
+AIRSDK_MacOS/lib/aot/stub/libiconv.dylib
+AIRSDK_MacOS/lib/aot/stub/libicucore.A.dylib
+AIRSDK_MacOS/lib/aot/stub/libicucore.dylib
+AIRSDK_MacOS/lib/aot/stub/libimg4.dylib
+AIRSDK_MacOS/lib/aot/stub/libInFieldCollection.dylib
+AIRSDK_MacOS/lib/aot/stub/libinfo.dylib
+AIRSDK_MacOS/lib/aot/stub/libIOABP.dylib
+AIRSDK_MacOS/lib/aot/stub/libIOAccessoryManager.dylib
+AIRSDK_MacOS/lib/aot/stub/libIOACIPC.dylib
+AIRSDK_MacOS/lib/aot/stub/libIOACIPCICEBB.dylib
+AIRSDK_MacOS/lib/aot/stub/libIOReport.dylib
+AIRSDK_MacOS/lib/aot/stub/libipconfig.dylib
+AIRSDK_MacOS/lib/aot/stub/libipsec.A.dylib
+AIRSDK_MacOS/lib/aot/stub/libipsec.dylib
+AIRSDK_MacOS/lib/aot/stub/libKTLDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libktrace.dylib
+AIRSDK_MacOS/lib/aot/stub/liblangid.dylib
+AIRSDK_MacOS/lib/aot/stub/libLeaksAtExit.dylib
+AIRSDK_MacOS/lib/aot/stub/libLLVM.dylib
+AIRSDK_MacOS/lib/aot/stub/liblockdown.dylib
+AIRSDK_MacOS/lib/aot/stub/liblzma.5.dylib
+AIRSDK_MacOS/lib/aot/stub/liblzma.dylib
+AIRSDK_MacOS/lib/aot/stub/libm.dylib
+AIRSDK_MacOS/lib/aot/stub/libmarisa.dylib
+AIRSDK_MacOS/lib/aot/stub/libMatch.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libMatch.dylib
+AIRSDK_MacOS/lib/aot/stub/libmav_ipc_router_dynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libMaxEnt.dylib
+AIRSDK_MacOS/lib/aot/stub/libmecab.dylib
+AIRSDK_MacOS/lib/aot/stub/libmecabra.dylib
+AIRSDK_MacOS/lib/aot/stub/libMemoryResourceException.dylib
+AIRSDK_MacOS/lib/aot/stub/libmenu.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub/libmenu.dylib
+AIRSDK_MacOS/lib/aot/stub/libmis.dylib
+AIRSDK_MacOS/lib/aot/stub/libMobileCheckpoint.dylib
+AIRSDK_MacOS/lib/aot/stub/libMobileGestalt.dylib
+AIRSDK_MacOS/lib/aot/stub/libMobileGestaltExtensions.dylib
+AIRSDK_MacOS/lib/aot/stub/libmorphun.dylib
+AIRSDK_MacOS/lib/aot/stub/libMTLCapture.dylib
+AIRSDK_MacOS/lib/aot/stub/libncurses.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub/libncurses.5.dylib
+AIRSDK_MacOS/lib/aot/stub/libncurses.dylib
+AIRSDK_MacOS/lib/aot/stub/libnetwork.dylib
+AIRSDK_MacOS/lib/aot/stub/libnetworkextension.dylib
+AIRSDK_MacOS/lib/aot/stub/libnfrestore.dylib
+AIRSDK_MacOS/lib/aot/stub/libnfshared.dylib
+AIRSDK_MacOS/lib/aot/stub/libnfstorage.dylib
+AIRSDK_MacOS/lib/aot/stub/libobjc-trampolines.dylib
+AIRSDK_MacOS/lib/aot/stub/libobjc.A.dylib
+AIRSDK_MacOS/lib/aot/stub/libobjc.dylib
+AIRSDK_MacOS/lib/aot/stub/libolaf.dylib
+AIRSDK_MacOS/lib/aot/stub/libomadm.dylib
+AIRSDK_MacOS/lib/aot/stub/libpanel.5.4.dylib
+AIRSDK_MacOS/lib/aot/stub/libpanel.dylib
+AIRSDK_MacOS/lib/aot/stub/libParallelCompression.dylib
+AIRSDK_MacOS/lib/aot/stub/libpartition2_dynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libPCITransport.dylib
+AIRSDK_MacOS/lib/aot/stub/libperfcheck.dylib
+AIRSDK_MacOS/lib/aot/stub/libpoll.dylib
+AIRSDK_MacOS/lib/aot/stub/libPPM.dylib
+AIRSDK_MacOS/lib/aot/stub/libPPMDataModel.dylib
+AIRSDK_MacOS/lib/aot/stub/libprequelite.dylib
+AIRSDK_MacOS/lib/aot/stub/libproc.dylib
+AIRSDK_MacOS/lib/aot/stub/libprotobuf-lite.dylib
+AIRSDK_MacOS/lib/aot/stub/libprotobuf.dylib
+AIRSDK_MacOS/lib/aot/stub/libpthread.dylib
+AIRSDK_MacOS/lib/aot/stub/libQMIParserDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libquic.dylib
+AIRSDK_MacOS/lib/aot/stub/libreadline.dylib
+AIRSDK_MacOS/lib/aot/stub/libresolv.9.dylib
+AIRSDK_MacOS/lib/aot/stub/libresolv.dylib
+AIRSDK_MacOS/lib/aot/stub/libReverseProxyDevice.dylib
+AIRSDK_MacOS/lib/aot/stub/libRoseBooter.dylib
+AIRSDK_MacOS/lib/aot/stub/librpcsvc.dylib
+AIRSDK_MacOS/lib/aot/stub/libsandbox.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libsandbox.dylib
+AIRSDK_MacOS/lib/aot/stub/libSecRecord.dylib
+AIRSDK_MacOS/lib/aot/stub/libSLAMDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libSMC.dylib
+AIRSDK_MacOS/lib/aot/stub/libsp.dylib
+AIRSDK_MacOS/lib/aot/stub/libspindump.dylib
+AIRSDK_MacOS/lib/aot/stub/libsqlite3.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libsqlite3.dylib
+AIRSDK_MacOS/lib/aot/stub/libsysdiagnose.dylib
+AIRSDK_MacOS/lib/aot/stub/libSystem.B.dylib
+AIRSDK_MacOS/lib/aot/stub/libSystem.B_asan.dylib
+AIRSDK_MacOS/lib/aot/stub/libSystem.dylib
+AIRSDK_MacOS/lib/aot/stub/libSystem_asan.dylib
+AIRSDK_MacOS/lib/aot/stub/libsystemstats.dylib
+AIRSDK_MacOS/lib/aot/stub/libtailspin.dylib
+AIRSDK_MacOS/lib/aot/stub/libTelephonyBasebandDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libTelephonyDebugDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libTelephonyIOKitDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libTelephonyUSBDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libTelephonyUtilDynamic.dylib
+AIRSDK_MacOS/lib/aot/stub/libtermcap.dylib
+AIRSDK_MacOS/lib/aot/stub/libThaiTokenizer.dylib
+AIRSDK_MacOS/lib/aot/stub/libThreadExternalCommissioner.dylib
+AIRSDK_MacOS/lib/aot/stub/libtidy.A.dylib
+AIRSDK_MacOS/lib/aot/stub/libtidy.dylib
+AIRSDK_MacOS/lib/aot/stub/libTiSerialFlasher.dylib
+AIRSDK_MacOS/lib/aot/stub/libtzupdate.dylib
+AIRSDK_MacOS/lib/aot/stub/libUSBTransport.dylib
+AIRSDK_MacOS/lib/aot/stub/libusrtcp.dylib
+AIRSDK_MacOS/lib/aot/stub/libutil.dylib
+AIRSDK_MacOS/lib/aot/stub/libutil1.0.dylib
+AIRSDK_MacOS/lib/aot/stub/libWAPI.dylib
+AIRSDK_MacOS/lib/aot/stub/libWirelessAudioIPC.dylib
+AIRSDK_MacOS/lib/aot/stub/libxml2.2.dylib
+AIRSDK_MacOS/lib/aot/stub/libxml2.dylib
+AIRSDK_MacOS/lib/aot/stub/libxpc_datastores.dylib
+AIRSDK_MacOS/lib/aot/stub/libxslt.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libxslt.dylib
+AIRSDK_MacOS/lib/aot/stub/libz.1.1.3.dylib
+AIRSDK_MacOS/lib/aot/stub/libz.1.2.11.dylib
+AIRSDK_MacOS/lib/aot/stub/libz.1.2.5.dylib
+AIRSDK_MacOS/lib/aot/stub/libz.1.2.8.dylib
+AIRSDK_MacOS/lib/aot/stub/libz.1.dylib
+AIRSDK_MacOS/lib/aot/stub/libz.dylib
+AIRSDK_MacOS/lib/aot/stub/LinkPresentation.framework/LinkPresentation
+AIRSDK_MacOS/lib/aot/stub/LocalAuthentication.framework/LocalAuthentication
+AIRSDK_MacOS/lib/aot/stub/MapKit.framework/MapKit
+AIRSDK_MacOS/lib/aot/stub/MediaAccessibility.framework/MediaAccessibility
+AIRSDK_MacOS/lib/aot/stub/MediaPlayer.framework/MediaPlayer
+AIRSDK_MacOS/lib/aot/stub/MediaSetup.framework/MediaSetup
+AIRSDK_MacOS/lib/aot/stub/MediaToolbox.framework/MediaToolbox
+AIRSDK_MacOS/lib/aot/stub/Messages.framework/Messages
+AIRSDK_MacOS/lib/aot/stub/MessageUI.framework/MessageUI
+AIRSDK_MacOS/lib/aot/stub/Metal.framework/Metal
+AIRSDK_MacOS/lib/aot/stub/MetalKit.framework/MetalKit
+AIRSDK_MacOS/lib/aot/stub/MetalPerformanceShaders.framework/MetalPerformanceShaders
+AIRSDK_MacOS/lib/aot/stub/MetalPerformanceShadersGraph.framework/MetalPerformanceShadersGraph
+AIRSDK_MacOS/lib/aot/stub/MetricKit.framework/MetricKit
+AIRSDK_MacOS/lib/aot/stub/MLCompute.framework/MLCompute
+AIRSDK_MacOS/lib/aot/stub/MobileCoreServices.framework/MobileCoreServices
+AIRSDK_MacOS/lib/aot/stub/ModelIO.framework/ModelIO
+AIRSDK_MacOS/lib/aot/stub/MultipeerConnectivity.framework/MultipeerConnectivity
+AIRSDK_MacOS/lib/aot/stub/NaturalLanguage.framework/NaturalLanguage
+AIRSDK_MacOS/lib/aot/stub/NearbyInteraction.framework/NearbyInteraction
+AIRSDK_MacOS/lib/aot/stub/Network.framework/Network
+AIRSDK_MacOS/lib/aot/stub/NetworkExtension.framework/NetworkExtension
+AIRSDK_MacOS/lib/aot/stub/NewsstandKit.framework/NewsstandKit
+AIRSDK_MacOS/lib/aot/stub/NotificationCenter.framework/NotificationCenter
+AIRSDK_MacOS/lib/aot/stub/OpenAL.framework/OpenAL
+AIRSDK_MacOS/lib/aot/stub/OpenGLES.framework/OpenGLES
+AIRSDK_MacOS/lib/aot/stub/OSLog.framework/OSLog
+AIRSDK_MacOS/lib/aot/stub/PassKit.framework/PassKit
+AIRSDK_MacOS/lib/aot/stub/PDFKit.framework/PDFKit
+AIRSDK_MacOS/lib/aot/stub/PencilKit.framework/PencilKit
+AIRSDK_MacOS/lib/aot/stub/Photos.framework/Photos
+AIRSDK_MacOS/lib/aot/stub/PhotosUI.framework/PhotosUI
+AIRSDK_MacOS/lib/aot/stub/PN548.dylib
+AIRSDK_MacOS/lib/aot/stub/PN548_API.dylib
+AIRSDK_MacOS/lib/aot/stub/PN548_HAL.dylib
+AIRSDK_MacOS/lib/aot/stub/PushKit.framework/PushKit
+AIRSDK_MacOS/lib/aot/stub/QuartzCore.framework/QuartzCore
+AIRSDK_MacOS/lib/aot/stub/QuickLook.framework/QuickLook
+AIRSDK_MacOS/lib/aot/stub/QuickLookThumbnailing.framework/QuickLookThumbnailing
+AIRSDK_MacOS/lib/aot/stub/RealityKit.framework/RealityKit
+AIRSDK_MacOS/lib/aot/stub/ReplayKit.framework/ReplayKit
+AIRSDK_MacOS/lib/aot/stub/SafariServices.framework/SafariServices
+AIRSDK_MacOS/lib/aot/stub/SceneKit.framework/SceneKit
+AIRSDK_MacOS/lib/aot/stub/ScreenTime.framework/ScreenTime
+AIRSDK_MacOS/lib/aot/stub/Security.framework/Security
+AIRSDK_MacOS/lib/aot/stub/SensorKit.framework/SensorKit
+AIRSDK_MacOS/lib/aot/stub/Social.framework/Social
+AIRSDK_MacOS/lib/aot/stub/SoundAnalysis.framework/SoundAnalysis
+AIRSDK_MacOS/lib/aot/stub/Speech.framework/Speech
+AIRSDK_MacOS/lib/aot/stub/SpriteKit.framework/SpriteKit
+AIRSDK_MacOS/lib/aot/stub/StoreKit.framework/StoreKit
+AIRSDK_MacOS/lib/aot/stub/SwiftUI.framework/SwiftUI
+AIRSDK_MacOS/lib/aot/stub/SystemConfiguration.framework/SystemConfiguration
+AIRSDK_MacOS/lib/aot/stub/Twitter.framework/Twitter
+AIRSDK_MacOS/lib/aot/stub/UIKit.framework/UIKit
+AIRSDK_MacOS/lib/aot/stub/UniformTypeIdentifiers.framework/UniformTypeIdentifiers
+AIRSDK_MacOS/lib/aot/stub/UserNotifications.framework/UserNotifications
+AIRSDK_MacOS/lib/aot/stub/UserNotificationsUI.framework/UserNotificationsUI
+AIRSDK_MacOS/lib/aot/stub/VideoSubscriberAccount.framework/VideoSubscriberAccount
+AIRSDK_MacOS/lib/aot/stub/VideoToolbox.framework/VideoToolbox
+AIRSDK_MacOS/lib/aot/stub/Vision.framework/Vision
+AIRSDK_MacOS/lib/aot/stub/VisionKit.framework/VisionKit
+AIRSDK_MacOS/lib/aot/stub/WatchConnectivity.framework/WatchConnectivity
+AIRSDK_MacOS/lib/aot/stub/WebKit.framework/WebKit
+AIRSDK_MacOS/lib/aot/stub/WidgetKit.framework/WidgetKit
+AIRSDK_MacOS/lib/commons-cli-1.2.jar
+AIRSDK_MacOS/lib/commons-cli-LICENSE.txt
+AIRSDK_MacOS/lib/commons-cli-NOTICE.txt
+AIRSDK_MacOS/lib/commons-io-2.0.1.jar
+AIRSDK_MacOS/lib/commons-io-LICENSE.txt
+AIRSDK_MacOS/lib/commons-io-NOTICE.txt
+AIRSDK_MacOS/lib/compc-cli.jar
+AIRSDK_MacOS/lib/compiler.jar
+AIRSDK_MacOS/lib/fontswf-cli.jar
+AIRSDK_MacOS/lib/guava-r08-LICENSE.txt
+AIRSDK_MacOS/lib/guava-r08.jar
+AIRSDK_MacOS/lib/legacy/asdoc.jar
+AIRSDK_MacOS/lib/legacy/fdb.jar
+AIRSDK_MacOS/lib/legacy/legacy-common-LICENSE.txt
+AIRSDK_MacOS/lib/legacy/legacy-common-NOTICE.txt
+AIRSDK_MacOS/lib/legacy/legacy-common.jar
+AIRSDK_MacOS/lib/lzma-sdk-9.2.jar
+AIRSDK_MacOS/lib/mxmlc-cli.jar
+AIRSDK_MacOS/lib/nai/.DS_Store
+AIRSDK_MacOS/lib/nai/bin/naip
+AIRSDK_MacOS/lib/nai/lib/CaptiveAppEntry
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/Info.plist
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/MacOS/naib
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/PkgInfo
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/Resources/Config.plist
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/Resources/ErrorDialog.nib
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/Resources/MainMenu.nib
+AIRSDK_MacOS/lib/nai/lib/naib.app/Contents/Resources/NativeInstaller.icns
+AIRSDK_MacOS/lib/optimizer-cli.jar
+AIRSDK_MacOS/lib/rideau.jar
+AIRSDK_MacOS/lib/swcdepends-cli.jar
+AIRSDK_MacOS/lib/swfdump-cli.jar
+AIRSDK_MacOS/Release_Notes_AIR_SDK_33.1.1.476.pdf
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Adobe AIR
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Resources
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/_CodeSignature/CodeResources
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Adobe AIR
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Adobe AIR_64
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/A2712Enabler
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Adobe AIR.vch
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Adobe Root Certificate.cer
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/Info.plist
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/MacOS/FlashPlayer-10.6
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/Resources/AIRCaptivePluginMessage.bmp
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/version.plist
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Info.plist
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Licenses/pcre2/COPYING
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/Thawte Root Certificate.cer
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/WebKit.dylib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/WebKit/LGPL_License.txt
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/WebKit/Notice_WebKit.txt
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air-captive/mac/Adobe AIR.framework/Versions/Current
+AIRSDK_MacOS/runtimes/air/android/device/arm8/Runtime.apk
+AIRSDK_MacOS/runtimes/air/android/device/Runtime.apk
+AIRSDK_MacOS/runtimes/air/android/device/x86/Runtime.apk
+AIRSDK_MacOS/runtimes/air/android/device/x86_64/Runtime.apk
+AIRSDK_MacOS/runtimes/air/android/emulator/Runtime.apk
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Adobe AIR
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Headers
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Resources
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/_CodeSignature/CodeResources
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Adobe AIR
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Adobe AIR_64
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Adobe AIR_64 Helper
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Headers/Adobe AIR.h
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Headers/FlashRuntimeExtensions.h
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/A2712Enabler
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Adobe AIR.vch
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/cs.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/de.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/en.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/es.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ExtendedAppEntryTemplate64
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/Info.plist
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/MacOS/FlashPlayer-10.6
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/Resources/AIRCaptivePluginMessage.bmp
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Flash Player.plugin/Contents/version.plist
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/fr.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Info.plist
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/it.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ja.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ko.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Licenses/pcre2/COPYING
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/nl.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pl.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/pt.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/ru.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/sv.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Template.app/Contents/Info.plist
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Template.app/Contents/MacOS/Template
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Template.app/Contents/PkgInfo
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/Thawte Root Certificate.cer
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/tr.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/WebKit.dylib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/WebKit/LGPL_License.txt
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/WebKit/Notice_WebKit.txt
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hans.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/AuthDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/ContentUIText.xml
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/FlashPromptDialog.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/Localizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/MainMenu.nib/keyedobjects.nib
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/1.0/Resources/zh_Hant.lproj/PlayerUILocalizable.strings
+AIRSDK_MacOS/runtimes/air/mac/Adobe AIR.framework/Versions/Current
+AIRSDK_MacOS/samples/badge/AC_RunActiveContent.js
+AIRSDK_MacOS/samples/badge/AIRBadge.as
+AIRSDK_MacOS/samples/badge/badge.fla
+AIRSDK_MacOS/samples/badge/badge.swf
+AIRSDK_MacOS/samples/badge/default_badge.html
+AIRSDK_MacOS/samples/badge/readme.txt
+AIRSDK_MacOS/samples/badge/red_badge.html
+AIRSDK_MacOS/samples/badge/test.jpg
+AIRSDK_MacOS/samples/descriptor-sample.xml
+AIRSDK_MacOS/samples/icons/AIRApp_128.png
+AIRSDK_MacOS/samples/icons/AIRApp_16.png
+AIRSDK_MacOS/samples/icons/AIRApp_32.png
+AIRSDK_MacOS/samples/icons/AIRApp_48.png
+AIRSDK_MacOS/samples/purposeStrings-sample.xml
+AIRSDK_MacOS/templates/air/descriptor-template.xml
+AIRSDK_MacOS/templates/air/Descriptor.1.1.xsd
+AIRSDK_MacOS/templates/air/Descriptor.1.5.1.xsd
+AIRSDK_MacOS/templates/air/Descriptor.1.5.2.xsd
+AIRSDK_MacOS/templates/air/Descriptor.1.5.3.xsd
+AIRSDK_MacOS/templates/air/Descriptor.1.5.xsd
+AIRSDK_MacOS/templates/air/Descriptor.13.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.14.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.15.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.16.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.17.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.18.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.19.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.2.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.2.5.xsd
+AIRSDK_MacOS/templates/air/Descriptor.2.6.xsd
+AIRSDK_MacOS/templates/air/Descriptor.2.7.xsd
+AIRSDK_MacOS/templates/air/Descriptor.20.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.21.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.22.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.23.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.24.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.25.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.26.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.27.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.28.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.29.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.1.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.2.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.3.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.4.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.5.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.6.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.7.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.8.xsd
+AIRSDK_MacOS/templates/air/Descriptor.3.9.xsd
+AIRSDK_MacOS/templates/air/Descriptor.30.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.31.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.32.0.xsd
+AIRSDK_MacOS/templates/air/Descriptor.33.1.xsd
+AIRSDK_MacOS/templates/air/Descriptor.4.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.13.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.14.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.15.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.16.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.17.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.18.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.19.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.2.5.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.20.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.21.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.22.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.23.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.24.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.25.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.26.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.27.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.28.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.29.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.1.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.2.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.3.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.4.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.5.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.6.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.7.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.8.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.3.9.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.30.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.31.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.32.0.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.33.1.xsd
+AIRSDK_MacOS/templates/extensions/Descriptor.4.0.xsd
+AIRSDK_MacOS/templates/extensions/extension-descriptor-template.xml
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.13.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.14.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.15.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.16.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.17.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.18.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.19.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.20.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.21.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.22.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.23.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.24.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.25.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.26.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.27.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.28.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.29.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.1.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.2.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.3.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.4.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.5.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.6.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.7.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.8.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.3.9.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.30.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.31.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.32.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.33.1.xsd
+AIRSDK_MacOS/templates/extensions/ios/Descriptor.4.0.xsd
+AIRSDK_MacOS/templates/extensions/ios/platform-descriptor-template.xml
+AIRSDK_MacOS/templates/sdk/Descriptor.33.1.xsd
+AIRSDK_MacOS/templates/swfobject/history/history.css
+AIRSDK_MacOS/templates/swfobject/history/history.js
+AIRSDK_MacOS/templates/swfobject/history/historyFrame.html
+AIRSDK_MacOS/templates/swfobject/index.template.html
+AIRSDK_MacOS/templates/swfobject/playerProductInstall.swf
