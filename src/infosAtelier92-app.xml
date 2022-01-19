@@ -3,7 +3,7 @@
     <id>fr.canope.hds.infosCentre</id>
     <versionNumber>1.0</versionNumber>
     <filename>infosAtelier92</filename>
-    <description></description>
+    <description>Application connectée à un fichier xml pour afficher l'occupation des salles</description>
     <!-- To localize the description, use the following format for the description element.
 	<description>
 		<text xml:lang="en">English App description goes here</text>
@@ -19,7 +19,7 @@
 		<text xml:lang="ja">Japanese App name goes here</text>
 	</name>
 	-->
-    <copyright>xavier aubrun</copyright>
+    <copyright>xavier aubrun - Atelier Canopé 92</copyright>
     <initialWindow>
         <content>infosAtelier92.swf</content>
         <systemChrome>standard</systemChrome>
@@ -42,4 +42,5 @@
         <image16x16>icones_infosAtelier_16-04.png</image16x16>
     </icon>
     <supportedProfiles>desktop extendedDesktop</supportedProfiles>
-<version>1.0</version></application>
+    
+</application>
